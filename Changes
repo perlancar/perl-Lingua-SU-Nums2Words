@@ -1,5 +1,11 @@
 Revision history for Lingua-SU-Nums2Words
 
+0.03     2012-08-03 (SHARYANTO)
+
+         No functional changes. Use Pod::Weaver::Plugin::Encoding while building
+         dist.
+
+
 0.02     2012-08-03 (SHARYANTO)
 
          No functional changes. Show Unicode character in Synopsis.
